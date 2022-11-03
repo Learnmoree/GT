@@ -1,1 +1,6 @@
-a b c d e F
+a
+ b
+  c
+   d
+    e
+      F
